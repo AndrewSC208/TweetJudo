@@ -1,0 +1,29 @@
+// {
+//   "host": "localhost",
+//   "port": 3030,
+//   "mongodb": "mongodb://localhost:27017/TweetJudo",
+//   "public": "../public/",
+//   "auth": {
+//     "token": {
+//       "secret": "q0D3i0Qhxw1iICqUB+XZZ2N2KZ+JaAUj5ISvnhPxsXmSbXAPqQ6+atod5ZDV+IB5GONHGsPd0kGyKtwl3Vcyjg=="
+//     },
+//     "local": {}
+//   }
+// }
+
+// {
+//   "host": "localhost",
+//   "port": 3030,
+//   "mongodb": "27017",
+//   "databaseConfig": {
+//     "host": "mongodb",
+//     "database": "tweetJudo"
+//   },
+//   "public": "../public/",
+//   "auth": {
+//     "token": {
+//       "secret": "FEATHERS_AUTH_SECRET"
+//     },
+//     "local": {}
+//   }
+// }
